@@ -5,3 +5,4 @@ ta
 openpyxl
 plotly
 matplotlib
+yfinance
